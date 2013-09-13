@@ -149,7 +149,7 @@
 
             span.setAttribute("data-format", "d2");
 
-            span.setAttribute("data-min", "0");
+            span.setAttribute("data-min", "-1");
             span.setAttribute("data-max", "1");
             span.setAttribute("data-step", "0.01");
 
