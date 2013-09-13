@@ -1,0 +1,21 @@
+
+.idct-demo {
+    width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.idct-demo .canvas-wrapper {
+    width: 360px;
+    margin: 0 auto;
+}
+
+.idct-demo span.dc {
+    display: block;
+    text-align: center;
+}
+
+.idct-demo span.freq span.slider {
+    width: 150px;
+    display: inline-block;
+}
